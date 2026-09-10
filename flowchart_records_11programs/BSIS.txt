@@ -1,0 +1,43 @@
+{"code": "CCPROG1", "name": "Logic Formulation and Introductory Programming", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2025-2026)", "term": 1, "requisites": []}
+{"code": "CCINFOM", "name": "Information Management", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2026-2027)", "term": 1, "requisites": [{"type": "hard", "code": "CCPROG2"}]}
+{"code": "CCICOMP", "name": "Introduction to Computing", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2025-2026)", "term": 1, "requisites": []}
+{"code": "CCDSALG", "name": "Data Structures and Algorithms", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2026-2027)", "term": 1, "requisites": [{"type": "soft", "code": "CCPROG2"}, {"type": "soft", "code": "CCDSTRU"}]}
+{"code": "MTH101A", "name": "Foundation Course in Mathematics", "units": 5.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2025-2026)", "term": 1, "requisites": []}
+{"code": "ISOPRES", "name": "Introduction to Operations Research", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2026-2027)", "term": 1, "requisites": [{"type": "hard", "code": "GEMATMW"}]}
+{"code": "LCC..01", "name": "Lasallian Core Curriculum 1", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2025-2026)", "term": 1, "requisites": []}
+{"code": "ISFINMA", "name": "Financial and Managerial Accounting for IS", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2026-2027)", "term": 1, "requisites": [{"type": "soft", "code": "ISBISPR"}]}
+{"code": "NSTP101", "name": "National Service Training Program – General Orientation", "units": 0.0, "is_zero_credit": true, "year": "ACADEMIC YEAR (2025-2026)", "term": 1, "requisites": []}
+{"code": "PE2FTEX", "name": "Generic Code for PE", "units": 2.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2026-2027)", "term": 1, "requisites": [{"type": "hard", "code": "PE1CRDO"}]}
+{"code": "CCDSTRU", "name": "Discrete Structures for CS Students", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2025-2026)", "term": 2, "requisites": []}
+{"code": "CCDEVAP", "name": "Web Application Development", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2026-2027)", "term": 2, "requisites": [{"type": "hard", "code": "CCPROG3"}, {"type": "hard", "code": "CCINFOM"}]}
+{"code": "ITISORG", "name": "Organization and Management Concepts", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2025-2026)", "term": 2, "requisites": []}
+{"code": "ISINFOM", "name": "Transaction Management and Descriptive Analytics", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2026-2027)", "term": 2, "requisites": [{"type": "hard", "code": "CCINFOM"}]}
+{"code": "ISFOUND", "name": "Information Systems Foundation", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2025-2026)", "term": 2, "requisites": []}
+{"code": "ISBUSPE", "name": "Business Performance", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2026-2027)", "term": 2, "requisites": [{"type": "hard", "code": "STT101A"}]}
+{"code": "LCC..02", "name": "Lasallian Core Curriculum 2", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2025-2026)", "term": 2, "requisites": []}
+{"code": "LCLSONE", "name": "Lasallian Studies 1", "units": 1.0, "is_zero_credit": true, "year": "ACADEMIC YEAR (2025-2026)", "term": 2, "requisites": []}
+{"code": "LASARE1", "name": "Lasallian Retreat 1", "units": 0.0, "is_zero_credit": true, "year": "ACADEMIC YEAR (2025-2026)", "term": 2, "requisites": []}
+{"code": "PETHREE", "name": "Generic Code for PE", "units": 2.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2026-2027)", "term": 2, "requisites": [{"type": "hard", "code": "PE1CRDO"}, {"type": "hard", "code": "PE2FTEX"}]}
+{"code": "LCLSTWO", "name": "Lasallian Studies 2", "units": 1.0, "is_zero_credit": true, "year": "ACADEMIC YEAR (2026-2027)", "term": 2, "requisites": [{"type": "hard", "code": "LCLSONE"}]}
+{"code": "LASARE2", "name": "Lasallian Retreat 2", "units": 0.0, "is_zero_credit": true, "year": "ACADEMIC YEAR (2026-2027)", "term": 2, "requisites": [{"type": "hard", "code": "LASARE1"}]}
+{"code": "STT101A", "name": "Foundation Course in Statistics", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2025-2026)", "term": 3, "requisites": []}
+{"code": "ITISDEV", "name": "Business Applications Development", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2026-2027)", "term": 3, "requisites": [{"type": "hard", "code": "CCAPDEV"}, {"type": "hard", "code": "CCINFOM"}]}
+{"code": "ISANDE1", "name": "Systems Analysis", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2026-2027)", "term": 3, "requisites": [{"type": "soft", "code": "ISFINMA"}, {"type": "soft", "code": "ITISHCI"}]}
+{"code": "SAS1000", "name": "Student Affairs Services 1000", "units": 0.0, "is_zero_credit": true, "year": "ACADEMIC YEAR (2025-2026)", "term": 3, "requisites": []}
+{"code": "ISINFRA", "name": "Introduction to IT Infrastructures", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2026-2027)", "term": 3, "requisites": [{"type": "soft", "code": "ISFOUND"}]}
+{"code": "LCC..03", "name": "Lasallian Core Curriculum 3", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2025-2026)", "term": 3, "requisites": []}
+{"code": "SAS2000", "name": "Student Affairs Services", "units": 0.0, "is_zero_credit": true, "year": "ACADEMIC YEAR (2026-2027)", "term": 3, "requisites": [{"type": "hard", "code": "SAS1000"}]}
+{"code": "PE1CRDO", "name": "Cardio Fitness", "units": 2.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2025-2026)", "term": 3, "requisites": []}
+{"code": "LCC..04", "name": "Lasallian Core Curriculum 4", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2025-2026)", "term": 3, "requisites": []}
+{"code": "PEDFOUR", "name": "Generic Code for PE", "units": 2.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2026-2027)", "term": 3, "requisites": [{"type": "hard", "code": "PE1CRDO"}, {"type": "hard", "code": "PE2FTEX"}]}
+{"code": "ISPRENL", "name": "Predictive Analytics", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2026-2027)", "term": 1, "requisites": [{"type": "hard", "code": "CCINFOM"}, {"type": "hard", "code": "ISOPRES"}]}
+{"code": "CAPRIS1", "name": "IS Capstone Project 1", "units": 2.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2026-2027)", "term": 1, "requisites": [{"type": "hard", "code": "CAPRISA"}, {"type": "hard", "code": "CAPRISB"}]}
+{"code": "ISENTAR", "name": "Enterprise Architecture", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2026-2027)", "term": 1, "requisites": [{"type": "soft", "code": "ISINFRA"}, {"type": "soft", "code": "ITISORG"}]}
+{"code": "ISELEC1", "name": "IS Elective 1", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2025-2026)", "term": 1, "requisites": []}
+{"code": "LCC..09", "name": "Lasallian Core Curriculum 9", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2025-2026)", "term": 1, "requisites": []}
+{"code": "ISSTRMA", "name": "IT Strategic Management", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2026-2027)", "term": 2, "requisites": [{"type": "soft", "code": "ISFINMA"}]}
+{"code": "IS-PROJ", "name": "Project Management for IS", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2026-2027)", "term": 2, "requisites": [{"type": "soft", "code": "ISANDE2"}]}
+{"code": "CAPRIS2", "name": "IS Capstone Project 2", "units": 2.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2026-2027)", "term": 2, "requisites": [{"type": "hard", "code": "CAPRIS1"}]}
+{"code": "LCC..10", "name": "Lasallian Core Curriculum 10", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2025-2026)", "term": 2, "requisites": []}
+{"code": "LCC..11", "name": "Lasallian Core Curriculum 11", "units": 3.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2025-2026)", "term": 2, "requisites": []}
+{"code": "CAPRISB", "name": "IS Capstone Proposal Development - Mentoring", "units": 1.0, "is_zero_credit": false, "year": "ACADEMIC YEAR (2025-2026)", "term": 3, "requisites": [{"type": "hard", "code": "ISANDE2"}, {"type": "coreq", "code": "CAPRISA"}]}

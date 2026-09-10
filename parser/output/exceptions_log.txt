@@ -1,0 +1,44 @@
+=== BSCS-CSE (78 courses, 5 warning(s)) ===
+  - line 42 (CSADPRG): empty course name
+  - line 46 (CE-MATH): empty course name
+  - line 75 (CSARCH2): empty course name
+  - line 76 (LBYARCH): empty course name
+  - only 2 distinct 'year' label(s) across 78 records (['AY 2024-2025', 'AY 2026-2027']) -- other programs of comparable size show 4-5 distinct year labels. Likely an upstream extraction defect that collapsed multiple curriculum years into one label; verify against the source flowchart manually, don't infer.
+
+=== BSCS-NIS (71 courses, 1 warning(s)) ===
+  - only 2 distinct 'year' label(s) across 71 records (['AY 2024-2025', 'AY 2026-2027']) -- other programs of comparable size show 4-5 distinct year labels. Likely an upstream extraction defect that collapsed multiple curriculum years into one label; verify against the source flowchart manually, don't infer.
+
+=== BSInfSec (74 courses, 1 warning(s)) ===
+  - only 2 distinct 'year' label(s) across 74 records (['First Year', 'Third Year']) -- other programs of comparable size show 4-5 distinct year labels. Likely an upstream extraction defect that collapsed multiple curriculum years into one label; verify against the source flowchart manually, don't infer.
+
+=== BSIS (43 courses, 1 warning(s)) ===
+  - only 2 distinct 'year' label(s) across 43 records (['ACADEMIC YEAR (2025-2026)', 'ACADEMIC YEAR (2026-2027)']) -- other programs of comparable size show 4-5 distinct year labels. Likely an upstream extraction defect that collapsed multiple curriculum years into one label; verify against the source flowchart manually, don't infer.
+
+=== BSIT-CBL (52 courses, 1 warning(s)) ===
+  - only 2 distinct 'year' label(s) across 52 records (['ACADEMIC YEAR (2025-2026)', 'ACADEMIC YEAR (2026-2027)']) -- other programs of comparable size show 4-5 distinct year labels. Likely an upstream extraction defect that collapsed multiple curriculum years into one label; verify against the source flowchart manually, don't infer.
+
+=== BSIT (51 courses, 1 warning(s)) ===
+  - only 2 distinct 'year' label(s) across 51 records (['ACADEMIC YEAR (2025-2026)', 'ACADEMIC YEAR (2026-2027)']) -- other programs of comparable size show 4-5 distinct year labels. Likely an upstream extraction defect that collapsed multiple curriculum years into one label; verify against the source flowchart manually, don't infer.
+
+=== CS-ST (72 courses, 3 warning(s)) ===
+  - line 46 (LCC.06): LCC code doesn't match the 'LCC..NN' pattern
+  - line 53 (LCC.10): LCC code doesn't match the 'LCC..NN' pattern
+  - line 68 (STELEC3): empty course name
+
+=== CS (74 courses, 2 warning(s)) ===
+  - line 5 (CBINFOM): empty course name
+  - line 50 (LASARE2): empty course name
+
+=== IET-AD (73 courses, 0 warning(s)) ===
+  (no warnings)
+
+=== IET-GD (62 courses, 0 warning(s)) ===
+  (no warnings)
+
+=== MSCS (79 courses, 6 warning(s)) ===
+  - line 2 (CSC755M): empty course name
+  - line 19 (LCC..02): empty course name
+  - line 41 (CSMATH1): empty course name
+  - line 49: duplicate course code 'THESIS' (first seen on line 42)
+  - line 61 (CCPROG3): empty course name
+  - line 64 (CSSWENG): empty course name

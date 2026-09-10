@@ -1,0 +1,62 @@
+{"code": "IECMPTK", "name": "Computational Thinking", "units": 3.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 1, "requisites": []}
+{"code": "IEDESGN", "name": "Introduction to Game Design", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 1, "requisites": []}
+{"code": "IEAUDIO", "name": "Game Audio Design", "units": 4.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 1, "requisites": []}
+{"code": "CAPIET2", "name": "Interactive Entertainment Capstone 2", "units": 2.0, "is_zero_credit": false, "year": "Year 4 (AY 2028-2029)", "term": 1, "requisites": [{"type": "hard", "code": "CAPIET1"}]}
+{"code": "IEFUNDA", "name": "Interactive Entertainment", "units": 3.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 1, "requisites": []}
+{"code": "GDPROG3", "name": "Object Oriented Programming in C#", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 1, "requisites": [{"type": "hard", "code": "GDPROG2"}]}
+{"code": "CCINFOM", "name": "Information Management", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 1, "requisites": [{"type": "hard", "code": "GDPROG2"}]}
+{"code": "IEGMBIZ", "name": "Introduction to Game Business and", "units": 3.0, "is_zero_credit": false, "year": "Year 4 (AY 2028-2029)", "term": 1, "requisites": []}
+{"code": "STT101A", "name": "Foundation Subject in Statistics", "units": 3.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 1, "requisites": []}
+{"code": "GDINTAI", "name": "Introduction to AI in Games", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 1, "requisites": []}
+{"code": "MTH101A", "name": "Foundation Subject in Mathematics", "units": 5.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 1, "requisites": [{"type": "exemption", "code": "BASMATH"}]}
+{"code": "LCC..13", "name": "Lasallian Core Curriculum", "units": 3.0, "is_zero_credit": false, "year": "Year 4 (AY 2028-2029)", "term": 1, "requisites": []}
+{"code": "GD-MATH", "name": "Mathematics for Game Development", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 1, "requisites": [{"type": "hard", "code": "CSMATH2"}]}
+{"code": "IEPRJ-2", "name": "IET Project Development 2", "units": 2.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 1, "requisites": [{"type": "hard", "code": "IEPRJ-1"}]}
+{"code": "LCC..01", "name": "Lasallian Core Curriculum", "units": 3.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 1, "requisites": []}
+{"code": "GDELEC3", "name": "Game Development Elective 3", "units": 3.0, "is_zero_credit": false, "year": "Year 4 (AY 2028-2029)", "term": 1, "requisites": []}
+{"code": "PE2FTEX", "name": "Physical Fitness and WeLLness in Dance", "units": 2.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 1, "requisites": []}
+{"code": "GDELEC1", "name": "Game Development Elective 1", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 1, "requisites": []}
+{"code": "NSTP101", "name": "NSTP Orientation", "units": 0.0, "is_zero_credit": true, "year": "Year 1 (AY 2025-2026)", "term": 1, "requisites": []}
+{"code": "LCC..06", "name": "Lasallian Core Curriculum", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 1, "requisites": []}
+{"code": "LCC..08", "name": "Lasallian Core Curriculum", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 1, "requisites": []}
+{"code": "CAPIET3", "name": "Interactive Entertainment Capstone 3", "units": 2.0, "is_zero_credit": false, "year": "Year 4 (AY 2028-2029)", "term": 2, "requisites": [{"type": "hard", "code": "CAPIET2"}]}
+{"code": "IESERGA", "name": "Serious Games", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 2, "requisites": [{"type": "soft", "code": "IEDESGN"}]}
+{"code": "IEPRFDV", "name": "Advanced Professional Practice in the", "units": 3.0, "is_zero_credit": false, "year": "Year 4 (AY 2028-2029)", "term": 2, "requisites": []}
+{"code": "GDADPRG", "name": "Advanced Programming Concepts", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 2, "requisites": [{"type": "hard", "code": "GDPROG3"}]}
+{"code": "CCAPDEV", "name": "Web Application Development", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 2, "requisites": [{"type": "hard", "code": "CCINFOM"}]}
+{"code": "GDENG01", "name": "Game Engines 1", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 2, "requisites": [{"type": "hard", "code": "GDPROG3"}]}
+{"code": "PRCIE-1", "name": "Orientation subject for IET students", "units": 1.0, "is_zero_credit": false, "year": "Year 4 (AY 2028-2029)", "term": 2, "requisites": [{"type": "hard", "code": "IEPRJ-1"}]}
+{"code": "CSMATH1", "name": "Differential Calculus for Computer", "units": 3.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 2, "requisites": [{"type": "hard", "code": "MTH101A"}]}
+{"code": "GDELEC2", "name": "Game Development Elective 2", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 2, "requisites": []}
+{"code": "LCC..14", "name": "Lasallian Core Curriculum", "units": 3.0, "is_zero_credit": false, "year": "Year 4 (AY 2028-2029)", "term": 2, "requisites": []}
+{"code": "GDGRAP1", "name": "Introduction to Computer Graphics", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 2, "requisites": [{"type": "hard", "code": "GD-MATH"}]}
+{"code": "LCC..15", "name": "Lasallian Core Curriculum", "units": 3.0, "is_zero_credit": false, "year": "Year 4 (AY 2028-2029)", "term": 2, "requisites": []}
+{"code": "LCC..02", "name": "Lasallian Core Curriculum", "units": 3.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 2, "requisites": []}
+{"code": "LCC..09", "name": "Lasallian Core Curriculum", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 2, "requisites": []}
+{"code": "ST-MATH", "name": "Integral Calculus for Computer Science", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 2, "requisites": [{"type": "hard", "code": "CSMATH1"}]}
+{"code": "LCC..03", "name": "Lasallian Core Curriculum", "units": 3.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 2, "requisites": []}
+{"code": "LCC..10", "name": "Lasallian Core Curriculum", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 2, "requisites": []}
+{"code": "PETHREE", "name": "Physical Fitness and Wellness in", "units": 2.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 2, "requisites": [{"type": "hard", "code": "PE1CRDO"}]}
+{"code": "LCC..04", "name": "Lasallian Core Curriculum", "units": 3.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 2, "requisites": []}
+{"code": "LCLSTRI", "name": "Lasallian Studies 3", "units": 1.0, "is_zero_credit": true, "year": "Year 3 (AY 2027-2028)", "term": 2, "requisites": [{"type": "hard", "code": "LSLSTWO"}]}
+{"code": "LCLSONE", "name": "Lasallian Studies 1", "units": 1.0, "is_zero_credit": true, "year": "Year 1 (AY 2025-2026)", "term": 2, "requisites": []}
+{"code": "LASARE3", "name": "Lasallian Recollection 3", "units": 0.0, "is_zero_credit": true, "year": "Year 3 (AY 2027-2028)", "term": 2, "requisites": [{"type": "hard", "code": "LASARE2"}]}
+{"code": "LCC..07", "name": "Lasallian Core Curriculum", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 2, "requisites": []}
+{"code": "LASARE1", "name": "Lasallian Recollection 1", "units": 0.0, "is_zero_credit": true, "year": "Year 1 (AY 2025-2026)", "term": 2, "requisites": []}
+{"code": "LCLSTWO", "name": "Lasallian Studies 2", "units": 1.0, "is_zero_credit": true, "year": "Year 2 (AY 2026-2027)", "term": 2, "requisites": [{"type": "hard", "code": "LSLSONE"}]}
+{"code": "NSTP-01", "name": "National Service Training Program", "units": 3.0, "is_zero_credit": true, "year": "Year 1 (AY 2025-2026)", "term": 2, "requisites": []}
+{"code": "PRCIE-2", "name": "Practicum Subject for IET Students", "units": 2.0, "is_zero_credit": false, "year": "Year 4 (AY 2028-2029)", "term": 3, "requisites": [{"type": "hard", "code": "PRCIE-1"}]}
+{"code": "LASARE2", "name": "Lasallian Recollection 2", "units": 0.0, "is_zero_credit": true, "year": "Year 2 (AY 2026-2027)", "term": 2, "requisites": [{"type": "hard", "code": "LASARE1"}]}
+{"code": "CAPIET1", "name": "Interactive Entertainment Capstone 1", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 3, "requisites": [{"type": "hard", "code": "IETHEOR"}]}
+{"code": "IEUI-UX", "name": "Application of User Interfaces and User", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 3, "requisites": []}
+{"code": "IEPRJ-3", "name": "IET Project Development 3", "units": 2.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 3, "requisites": [{"type": "hard", "code": "IEPRJ-2"}]}
+{"code": "GDENG02", "name": "Game Engines 2", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 3, "requisites": [{"type": "hard", "code": "GDENG01"}]}
+{"code": "LCC..11", "name": "Lasallian Core Curriculum", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 3, "requisites": []}
+{"code": "IEPRJ-1", "name": "IET Project Development 1", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 3, "requisites": [{"type": "hard", "code": "ADGAM-1(AD)"}]}
+{"code": "PE1CRDO", "name": "Physical Fitness and Wellness", "units": 2.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 3, "requisites": []}
+{"code": "LCC..12", "name": "Lasallian Core Curriculum", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 3, "requisites": []}
+{"code": "LCC..05", "name": "Lasallian Core Curriculum", "units": 3.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 3, "requisites": []}
+{"code": "GDPHYSX", "name": "Game Physics", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 3, "requisites": [{"type": "hard", "code": "GDGRAP1"}]}
+{"code": "SAS2000", "name": "Student Affairs Services 2000", "units": 0.0, "is_zero_credit": true, "year": "Year 3 (AY 2027-2028)", "term": 3, "requisites": [{"type": "hard", "code": "SAS1000"}]}
+{"code": "NSTP-02", "name": "National Service Training Program", "units": 3.0, "is_zero_credit": true, "year": "Year 1 (AY 2025-2026)", "term": 3, "requisites": [{"type": "hard", "code": "NSTP-01"}]}
+{"code": "PEDFOUR", "name": "Physical Fitness and Wellness in Team", "units": 2.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 3, "requisites": [{"type": "hard", "code": "PE1CRDO"}]}

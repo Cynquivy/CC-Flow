@@ -1,0 +1,71 @@
+{"code": "CCPROG1", "name": "Logic Formulation and Introductory Programming", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 1, "requisites": []}
+{"code": "CSSWENG", "name": "Software Engineering", "units": 3.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 1, "requisites": [{"type": "hard", "code": "CCAPDEV"}]}
+{"code": "MTH101A", "name": "Foundation Course in Mathematics", "units": 5.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 1, "requisites": [{"type": "exemption", "code": "BASMATH"}]}
+{"code": "NSETRON", "name": "Practical Electricity and Electronics", "units": 3.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 1, "requisites": []}
+{"code": "CCICOMP", "name": "Introduction to Computing", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 1, "requisites": []}
+{"code": "NSCOM03", "name": "Data Communication", "units": 3.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 1, "requisites": [{"type": "hard", "code": "CSMODEL"}, {"type": "hard", "code": "NSCOM02"}]}
+{"code": "LCC..01", "name": "Lasallian Core Curriculum 1", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 1, "requisites": []}
+{"code": "CSOPESY", "name": "Introduction to Operating Systems", "units": 3.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 1, "requisites": [{"type": "hard", "code": "CSARCH2"}]}
+{"code": "NSTP101", "name": "National Service Training Program General Orientation", "units": 0.0, "is_zero_credit": true, "year": "AY 2024-2025", "term": 1, "requisites": []}
+{"code": "LCC..08", "name": "Lasallian Core Curriculum 8", "units": 3.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 1, "requisites": []}
+{"code": "LASARE2", "name": "Lasallian Recollection 2", "units": 0.0, "is_zero_credit": true, "year": "AY 2026-2027", "term": 1, "requisites": [{"type": "hard", "code": "LASARE1"}]}
+{"code": "CCDSTRU", "name": "Discrete Structures", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 2, "requisites": []}
+{"code": "NSEMBED", "name": "Embedded Platform Development", "units": 3.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 2, "requisites": [{"type": "hard", "code": "NSCOM02"}, {"type": "hard", "code": "NSETRON"}]}
+{"code": "CCPROG2", "name": "Programming with Structured Data Types", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 2, "requisites": [{"type": "hard", "code": "CCPROG1"}]}
+{"code": "NSRESME", "name": "Network and Information Security Research Methods", "units": 3.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 2, "requisites": [{"type": "hard", "code": "NSCOM02"}, {"type": "hard", "code": "NSSECU2"}]}
+{"code": "CSMATH1", "name": "Differential Calculus", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 2, "requisites": [{"type": "hard", "code": "MTH101A"}]}
+{"code": "NSSECU3", "name": "Digital Forensics", "units": 3.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 2, "requisites": [{"type": "hard", "code": "NSSECU2"}]}
+{"code": "LCC..02", "name": "Lasallian Core Curriculum 2", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 2, "requisites": []}
+{"code": "NSAPDEV", "name": "Server Application Development", "units": 3.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 2, "requisites": [{"type": "hard", "code": "CSOPESY"}, {"type": "hard", "code": "NSCOM01"}]}
+{"code": "LCC..03", "name": "Lasallian Core Curriculum 3", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 2, "requisites": []}
+{"code": "LCC..09", "name": "Lasallian Core Curriculum 9", "units": 3.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 2, "requisites": []}
+{"code": "PE1CRDO", "name": "Cardio Fitness", "units": 2.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 2, "requisites": []}
+{"code": "LCLSTWO", "name": "Lasallian Studies 2", "units": 1.0, "is_zero_credit": true, "year": "AY 2026-2027", "term": 2, "requisites": [{"type": "hard", "code": "LCLSONE"}]}
+{"code": "NSTP-01", "name": "National Service Training Program Phase 1", "units": 3.0, "is_zero_credit": true, "year": "AY 2024-2025", "term": 2, "requisites": [{"type": "hard", "code": "NSTP101"}]}
+{"code": "CCDSALG", "name": "Data Structures and Algorithms", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 3, "requisites": [{"type": "soft", "code": "CCDSTRU"}, {"type": "soft", "code": "CCPROG2"}]}
+{"code": "CSALGCM", "name": "Algorithms and Complexity", "units": 3.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 3, "requisites": [{"type": "hard", "code": "CCDSALG"}]}
+{"code": "CCPROG3", "name": "Object-Oriented Programming", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 3, "requisites": [{"type": "hard", "code": "CCPROG2"}]}
+{"code": "NSELEC1", "name": "NIS Elective 1", "units": 3.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 3, "requisites": []}
+{"code": "CSMATH2", "name": "Linear Algebra for Computer Science Students", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 3, "requisites": [{"type": "hard", "code": "MTH101A"}]}
+{"code": "THSNS01", "name": "Network and Information Security Thesis 1", "units": 2.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 3, "requisites": [{"type": "hard", "code": "NSRESME"}]}
+{"code": "STT101A", "name": "Foundation Course in Statistics", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 3, "requisites": [{"type": "exemption", "code": "BASSTAT"}]}
+{"code": "NSDSYST", "name": "Distributed Systems", "units": 3.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 3, "requisites": [{"type": "hard", "code": "NSAPDEV"}]}
+{"code": "LCC..04", "name": "Lasallian Core Curriculum 4", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 3, "requisites": []}
+{"code": "LCC..10", "name": "Lasallian Core Curriculum 10", "units": 3.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 3, "requisites": []}
+{"code": "PE2FTEX", "name": "Functional Exercise", "units": 2.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 3, "requisites": [{"type": "hard", "code": "PE1CRDO"}]}
+{"code": "NSTP-02", "name": "National Service Training Program Phase 2", "units": 3.0, "is_zero_credit": true, "year": "AY 2024-2025", "term": 3, "requisites": [{"type": "hard", "code": "NSTP-01"}]}
+{"code": "SAS1000", "name": "Student Affairs Services 1000", "units": 0.0, "is_zero_credit": true, "year": "AY 2024-2025", "term": 3, "requisites": []}
+{"code": "CSADPRG", "name": "Advanced Programming and Theory of Programming Languages", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 1, "requisites": [{"type": "hard", "code": "CCPROG3"}]}
+{"code": "CSSECDV", "name": "Secure Web Development", "units": 3.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 1, "requisites": [{"type": "hard", "code": "CCAPDEV"}]}
+{"code": "CCINFOM", "name": "Information Management", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 1, "requisites": [{"type": "hard", "code": "CCPROG2"}]}
+{"code": "NSELEC2", "name": "NIS Elective 2", "units": 3.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 1, "requisites": []}
+{"code": "CSMODEL", "name": "Statistical Modeling and Simulation", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 1, "requisites": [{"type": "hard", "code": "STT101A"}, {"type": "hard", "code": "CSMATH1"}, {"type": "hard", "code": "CSMATH2"}]}
+{"code": "THSNS02", "name": "Network and Information Security Thesis 2", "units": 2.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 1, "requisites": [{"type": "hard", "code": "THSNS01"}]}
+{"code": "CSNETWK", "name": "Introduction to Computer Networks", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 1, "requisites": [{"type": "hard", "code": "CCICOMP"}]}
+{"code": "LCC..11", "name": "Lasallian Core Curriculum 11", "units": 3.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 1, "requisites": []}
+{"code": "LCC..05", "name": "Lasallian Core Curriculum 5", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 1, "requisites": []}
+{"code": "LCC..12", "name": "Lasallian Core Curriculum 12", "units": 3.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 1, "requisites": []}
+{"code": "LCLSONE", "name": "Lasallian Studies 1", "units": 1.0, "is_zero_credit": true, "year": "AY 2024-2025", "term": 1, "requisites": []}
+{"code": "PETHREE", "name": "Generic Code for PE", "units": 2.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 1, "requisites": [{"type": "hard", "code": "PE1CRDO"}, {"type": "hard", "code": "PE2FTEX"}]}
+{"code": "LASARE1", "name": "Lasallian Recollection 1", "units": 0.0, "is_zero_credit": true, "year": "AY 2024-2025", "term": 1, "requisites": []}
+{"code": "CCINVO8", "name": "Innovation and Technology Management", "units": 3.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 2, "requisites": []}
+{"code": "NSELEC3", "name": "NIS Elective 3", "units": 3.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 2, "requisites": []}
+{"code": "THSNS03", "name": "Network and Information Security Thesis 3", "units": 2.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 2, "requisites": [{"type": "hard", "code": "THSNS02"}]}
+{"code": "CCAPDEV", "name": "Web Application Development", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 2, "requisites": [{"type": "hard", "code": "CCINFOM"}, {"type": "hard", "code": "CCPROG3"}]}
+{"code": "PRCC01", "name": "CS Practicum Orientation", "units": 1.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 2, "requisites": [{"type": "hard", "code": "CCAPDEV"}]}
+{"code": "NSCOM01", "name": "Network Application Protocols", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 2, "requisites": [{"type": "hard", "code": "CSNETWK"}]}
+{"code": "LCC..13", "name": "Lasallian Core Curriculum 13", "units": 3.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 2, "requisites": []}
+{"code": "NSSECU1", "name": "Introduction to Security", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 2, "requisites": [{"type": "soft", "code": "CSNETWK"}]}
+{"code": "LCLSTRI", "name": "Lasallian Studies 3", "units": 1.0, "is_zero_credit": true, "year": "AY 2026-2027", "term": 2, "requisites": [{"type": "hard", "code": "LCLSTWO"}]}
+{"code": "CSARCH1", "name": "Introduction to Computer Organization and Architecture", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 2, "requisites": [{"type": "hard", "code": "CCICOMP"}]}
+{"code": "LASARE3", "name": "Lasallian Recollection 3", "units": 0.0, "is_zero_credit": true, "year": "AY 2026-2027", "term": 2, "requisites": [{"type": "hard", "code": "LASARE2"}]}
+{"code": "LCC..06", "name": "Lasallian Core Curriculum 6", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 2, "requisites": []}
+{"code": "PEDFOUR", "name": "Generic Code for PE", "units": 2.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 2, "requisites": [{"type": "hard", "code": "PE1CRDO"}, {"type": "hard", "code": "PE2FTEX"}]}
+{"code": "LCC..14", "name": "Lasallian Core Curriculum 14", "units": 3.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 3, "requisites": []}
+{"code": "CSINTSY", "name": "Introduction to Intelligent Systems", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 3, "requisites": [{"type": "hard", "code": "CCDSALG"}, {"type": "hard", "code": "CCDSTRU"}]}
+{"code": "LCC..15", "name": "Lasallian Core Curriculum 15", "units": 3.0, "is_zero_credit": false, "year": "AY 2026-2027", "term": 3, "requisites": []}
+{"code": "NSCOM02", "name": "Network Connectivity and Data Delivery", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 3, "requisites": [{"type": "soft", "code": "NSCOM01"}]}
+{"code": "NSSECU2", "name": "Advanced and Offensive Security", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 3, "requisites": [{"type": "hard", "code": "NSSECU1"}]}
+{"code": "CSARCH2", "name": "Introduction to Computer Organization and Architecture 2", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 3, "requisites": [{"type": "hard", "code": "CSARCH1"}, {"type": "coreq", "code": "LBYARCH"}]}
+{"code": "LBYARCH", "name": "Introduction to Computer Organization and Architecture Laboratory", "units": 1.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 3, "requisites": [{"type": "hard", "code": "CSARCH1"}, {"type": "coreq", "code": "CSARCH2"}]}
+{"code": "LCC..07", "name": "Lasallian Core Curriculum 7", "units": 3.0, "is_zero_credit": false, "year": "AY 2024-2025", "term": 3, "requisites": []}

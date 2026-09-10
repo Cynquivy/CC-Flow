@@ -1,0 +1,74 @@
+{"code": "CCPROG1", "name": "Logic Formulation and Introductory Programming", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 1, "requisites": []}
+{"code": "SCETHCK", "name": "Ethical Hacking and Penetration Testing", "units": 3.0, "is_zero_credit": false, "year": "Third Year", "term": 1, "requisites": [{"type": "coreq", "code": "LBYETHC"}, {"type": "hard", "code": "SCISECU"}]}
+{"code": "MTH101A", "name": "Foundation Course in Mathematics", "units": 5.0, "is_zero_credit": false, "year": "First Year", "term": 1, "requisites": []}
+{"code": "LBYETHAC", "name": "Ethical Hacking and Penetration Testing - Laboratory", "units": 1.0, "is_zero_credit": false, "year": "Third Year", "term": 1, "requisites": [{"type": "coreq", "code": "SCETHCK"}, {"type": "hard", "code": "SCISECU"}]}
+{"code": "CCICOMP", "name": "Introduction to Computing", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 1, "requisites": []}
+{"code": "SCSOFT1", "name": "Software Security 1", "units": 3.0, "is_zero_credit": false, "year": "Third Year", "term": 1, "requisites": [{"type": "hard", "code": "SCSWENG"}]}
+{"code": "LCC..01", "name": "Lasallian Core Curriculum 1", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 1, "requisites": []}
+{"code": "SCVCCOM", "name": "Virtualized Platforms and Cloud Computing", "units": 3.0, "is_zero_credit": false, "year": "Third Year", "term": 1, "requisites": [{"type": "coreq", "code": "LBYVCOM"}, {"type": "soft", "code": "SCNET02"}]}
+{"code": "NSTP101", "name": "National Service Training Program General Orientation", "units": 0.0, "is_zero_credit": true, "year": "First Year", "term": 1, "requisites": []}
+{"code": "LBYVCOM", "name": "Virtualized Platforms and Cloud Computing - Laboratory", "units": 1.0, "is_zero_credit": false, "year": "Third Year", "term": 1, "requisites": [{"type": "coreq", "code": "SCVCCOM"}, {"type": "soft", "code": "SCNET02"}]}
+{"code": "LCC..09", "name": "Lasallian Core Curriculum 9", "units": 3.0, "is_zero_credit": false, "year": "Third Year", "term": 1, "requisites": []}
+{"code": "STT101A", "name": "Foundation Course in Statistics", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 2, "requisites": []}
+{"code": "SCSERVM", "name": "IT Service Management", "units": 3.0, "is_zero_credit": false, "year": "Third Year", "term": 2, "requisites": [{"type": "hard", "code": "CCICOMP"}]}
+{"code": "SCPROG1", "name": "Programming with Structured Data Types", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 2, "requisites": [{"type": "hard", "code": "CCPROG1"}]}
+{"code": "SCFORE1", "name": "Digital Forensics 1", "units": 3.0, "is_zero_credit": false, "year": "Third Year", "term": 2, "requisites": [{"type": "coreq", "code": "LBYFOR1"}, {"type": "hard", "code": "SCETHCK"}]}
+{"code": "SCORARC", "name": "Computer Organization and Architecture", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 2, "requisites": [{"type": "hard", "code": "CCICOMP"}]}
+{"code": "LBYFOR1", "name": "Digital Forensics 1 - Laboratory", "units": 1.0, "is_zero_credit": false, "year": "Third Year", "term": 2, "requisites": [{"type": "coreq", "code": "SCFORE1"}, {"type": "hard", "code": "SCETHCK"}]}
+{"code": "LCC..02", "name": "Lasallian Core Curriculum 2", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 2, "requisites": []}
+{"code": "SCSOFT2", "name": "Software Security 2", "units": 3.0, "is_zero_credit": false, "year": "Third Year", "term": 2, "requisites": [{"type": "soft", "code": "SCSOFT1"}]}
+{"code": "LCC..03", "name": "Lasallian Core Curriculum 3", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 2, "requisites": []}
+{"code": "SCELEC1", "name": "InfoSec Elective 1", "units": 3.0, "is_zero_credit": false, "year": "Third Year", "term": 2, "requisites": []}
+{"code": "PE1CRDO", "name": "Cardio Fitness", "units": 2.0, "is_zero_credit": false, "year": "First Year", "term": 2, "requisites": []}
+{"code": "LCC..10", "name": "Lasallian Core Curriculum 10", "units": 3.0, "is_zero_credit": false, "year": "Third Year", "term": 2, "requisites": []}
+{"code": "NSTP-01", "name": "National Service Training Program Phase 1", "units": 3.0, "is_zero_credit": true, "year": "First Year", "term": 2, "requisites": [{"type": "hard", "code": "NSTP101"}]}
+{"code": "LCLSTWO", "name": "Lasallian Studies 2", "units": 1.0, "is_zero_credit": true, "year": "Third Year", "term": 2, "requisites": [{"type": "hard", "code": "LCLSONE"}]}
+{"code": "LASARE1", "name": "Lasallian Recollection 1", "units": 0.0, "is_zero_credit": true, "year": "First Year", "term": 2, "requisites": []}
+{"code": "LASARE3", "name": "Lasallian Recollection 3", "units": 0.0, "is_zero_credit": true, "year": "Third Year", "term": 2, "requisites": [{"type": "hard", "code": "LASARE2"}]}
+{"code": "SCDATAM", "name": "Introduction to Database Management", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 3, "requisites": [{"type": "hard", "code": "SCPROG1"}]}
+{"code": "SCFORE2", "name": "Digital Forensics 2", "units": 3.0, "is_zero_credit": false, "year": "Third Year", "term": 3, "requisites": [{"type": "coreq", "code": "LBYFOR2"}, {"type": "soft", "code": "SCETHCK"}]}
+{"code": "SCPROG2", "name": "Object-Oriented Programming", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 3, "requisites": [{"type": "hard", "code": "SCPROG1"}]}
+{"code": "LBYFOR2", "name": "Digital Forensics 2 - Laboratory", "units": 1.0, "is_zero_credit": false, "year": "Third Year", "term": 3, "requisites": [{"type": "coreq", "code": "SCFORE2"}, {"type": "hard", "code": "SCETHCK"}]}
+{"code": "SCNET01", "name": "Introduction to Networks", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 3, "requisites": [{"type": "coreq", "code": "LBYSNT1"}, {"type": "hard", "code": "CCICOMP"}]}
+{"code": "SCELEC2", "name": "InfoSec Elective 2", "units": 3.0, "is_zero_credit": false, "year": "Third Year", "term": 3, "requisites": []}
+{"code": "LBYSNT1", "name": "Introduction to Networks - Laboratory", "units": 1.0, "is_zero_credit": false, "year": "First Year", "term": 3, "requisites": [{"type": "coreq", "code": "SCNET01"}, {"type": "hard", "code": "CCICOMP"}]}
+{"code": "SCRESME", "name": "Information Security Capstone Project Methodologies", "units": 3.0, "is_zero_credit": false, "year": "Third Year", "term": 3, "requisites": [{"type": "hard", "code": "SCSOFT2"}]}
+{"code": "LCC..04", "name": "Lasallian Core Curriculum 4", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 3, "requisites": []}
+{"code": "PE2FTEX", "name": "Functional Exercise", "units": 2.0, "is_zero_credit": false, "year": "First Year", "term": 3, "requisites": [{"type": "hard", "code": "PE1CRDO"}]}
+{"code": "LCC..12", "name": "Lasallian Core Curriculum 12", "units": 3.0, "is_zero_credit": false, "year": "Third Year", "term": 3, "requisites": []}
+{"code": "NSTP-02", "name": "National Service Training Program Phase 2", "units": 3.0, "is_zero_credit": true, "year": "First Year", "term": 3, "requisites": [{"type": "hard", "code": "NSTP-01"}]}
+{"code": "SAS3000", "name": "Student Affairs Services 3000 (Career Development)", "units": 0.0, "is_zero_credit": true, "year": "Third Year", "term": 3, "requisites": [{"type": "hard", "code": "SAS2000"}]}
+{"code": "SAS1000", "name": "Student Affairs Services 1000", "units": 0.0, "is_zero_credit": true, "year": "First Year", "term": 3, "requisites": []}
+{"code": "SCSTDEV", "name": "Software Application and Tools Development", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 1, "requisites": [{"type": "hard", "code": "SCPROG2"}]}
+{"code": "SCSECMN", "name": "Information Security Management", "units": 3.0, "is_zero_credit": false, "year": "Third Year", "term": 1, "requisites": [{"type": "hard", "code": "SCISECU"}, {"type": "soft", "code": "SCSERVM"}]}
+{"code": "SCISECU", "name": "Introduction to Information Security", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 1, "requisites": [{"type": "hard", "code": "CCICOMP"}]}
+{"code": "SCELEC3", "name": "InfoSec Elective 3", "units": 3.0, "is_zero_credit": false, "year": "Third Year", "term": 1, "requisites": []}
+{"code": "SCNET02", "name": "Routing and Switching", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 1, "requisites": [{"type": "coreq", "code": "LBYSNT2"}, {"type": "hard", "code": "SCNET01"}]}
+{"code": "THSSEC1", "name": "Information Security Capstone Project 1", "units": 2.0, "is_zero_credit": false, "year": "Third Year", "term": 1, "requisites": [{"type": "hard", "code": "SCRESME"}]}
+{"code": "LBYSNT2", "name": "Routing and Switching - Laboratory", "units": 1.0, "is_zero_credit": false, "year": "First Year", "term": 1, "requisites": [{"type": "coreq", "code": "SCNET02"}, {"type": "hard", "code": "SCNET01"}]}
+{"code": "LCC..13", "name": "Lasallian Core Curriculum 13", "units": 3.0, "is_zero_credit": false, "year": "Third Year", "term": 1, "requisites": []}
+{"code": "LCC..05", "name": "Lasallian Core Curriculum 5", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 1, "requisites": []}
+{"code": "LCC..14", "name": "Lasallian Core Curriculum 14", "units": 3.0, "is_zero_credit": false, "year": "Third Year", "term": 1, "requisites": []}
+{"code": "PETHREE", "name": "Individual and Dual Sports and/or Social Dance", "units": 2.0, "is_zero_credit": false, "year": "First Year", "term": 1, "requisites": [{"type": "hard", "code": "PE1CRDO"}, {"type": "hard", "code": "PE2FTEX"}]}
+{"code": "LCLSONE", "name": "Lasallian Studies 1", "units": 1.0, "is_zero_credit": true, "year": "First Year", "term": 1, "requisites": []}
+{"code": "CCINVO8", "name": "Innovation and Technology Management", "units": 3.0, "is_zero_credit": false, "year": "Third Year", "term": 2, "requisites": []}
+{"code": "SCETLAW", "name": "Legal and Ethical Aspects of Information Security", "units": 3.0, "is_zero_credit": false, "year": "Third Year", "term": 2, "requisites": [{"type": "hard", "code": "SCISECU"}]}
+{"code": "SCASPRG", "name": "Computer Assembly Programming", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 2, "requisites": [{"type": "hard", "code": "CCPROG1"}]}
+{"code": "SCELEC4", "name": "InfoSec Elective 4", "units": 3.0, "is_zero_credit": false, "year": "Third Year", "term": 2, "requisites": []}
+{"code": "SCOSADM", "name": "Intro to Operating System and Administration", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 2, "requisites": [{"type": "coreq", "code": "LBYOSAD"}, {"type": "hard", "code": "CCICOMP"}, {"type": "soft", "code": "SCPROG1"}]}
+{"code": "THSSEC2", "name": "Information Security Capstone Project 2", "units": 2.0, "is_zero_credit": false, "year": "Third Year", "term": 2, "requisites": [{"type": "hard", "code": "THSSEC1"}]}
+{"code": "LBYOSAD", "name": "Intro to Operating System and Administration - Laboratory", "units": 1.0, "is_zero_credit": false, "year": "First Year", "term": 2, "requisites": [{"type": "coreq", "code": "SCOSADM"}, {"type": "hard", "code": "CCICOMP"}]}
+{"code": "LCC..15", "name": "Lasallian Core Curriculum 15", "units": 3.0, "is_zero_credit": false, "year": "Third Year", "term": 2, "requisites": []}
+{"code": "SCNTSEC", "name": "Network Security", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 2, "requisites": [{"type": "coreq", "code": "LBYNSEC"}, {"type": "soft", "code": "SCNET02"}]}
+{"code": "LCLSTRI", "name": "Lasallian Studies 3", "units": 1.0, "is_zero_credit": true, "year": "Third Year", "term": 2, "requisites": [{"type": "hard", "code": "LCLSTWO"}]}
+{"code": "LBYNSEC", "name": "Network Security - Lab", "units": 1.0, "is_zero_credit": false, "year": "First Year", "term": 2, "requisites": [{"type": "coreq", "code": "SCNTSEC"}, {"type": "soft", "code": "SCNET02"}]}
+{"code": "LCC..06", "name": "Lasallian Core Curriculum 6", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 2, "requisites": []}
+{"code": "PEDFOUR", "name": "Team Games or Dance", "units": 2.0, "is_zero_credit": false, "year": "First Year", "term": 2, "requisites": [{"type": "hard", "code": "PE1CRDO"}, {"type": "hard", "code": "PE2FTEX"}]}
+{"code": "LASARE2", "name": "Lasallian Recollection 2", "units": 0.0, "is_zero_credit": true, "year": "First Year", "term": 2, "requisites": [{"type": "hard", "code": "LASARE1"}]}
+{"code": "PRCTSEC", "name": "Practicum for BS Information Security", "units": 3.0, "is_zero_credit": false, "year": "Third Year", "term": 3, "requisites": [{"type": "hard", "code": "SCSOFT2"}]}
+{"code": "SCCODAN", "name": "Code Analysis and Advanced Assembly Programming", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 3, "requisites": [{"type": "hard", "code": "SCPROG1"}, {"type": "soft", "code": "SCASPRG"}]}
+{"code": "SCSWENG", "name": "Software Engineering", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 3, "requisites": [{"type": "hard", "code": "SCSTDEV"}]}
+{"code": "SCDBSEC", "name": "Database Administration and Security", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 3, "requisites": [{"type": "hard", "code": "SCDATAM"}]}
+{"code": "LCC..07", "name": "Lasallian Core Curriculum 7", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 3, "requisites": []}
+{"code": "LCC..08", "name": "Lasallian Core Curriculum 8", "units": 3.0, "is_zero_credit": false, "year": "First Year", "term": 3, "requisites": []}
+{"code": "SAS2000", "name": "Student Affairs Services", "units": 0.0, "is_zero_credit": true, "year": "First Year", "term": 3, "requisites": [{"type": "hard", "code": "SAS1000"}]}

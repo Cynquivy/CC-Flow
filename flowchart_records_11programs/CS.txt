@@ -1,0 +1,74 @@
+{"code": "CBPROG1", "name": "Logic Formulation and Introductory", "units": 3.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 1, "requisites": []}
+{"code": "CBPROG3", "name": "Object Oriented Programming", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 1, "requisites": [{"type": "hard", "code": "CBPROG2"}]}
+{"code": "CBAPDEV", "name": "Web Application Development", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 1, "requisites": [{"type": "hard", "code": "CBPROG3"}]}
+{"code": "THS-CB2", "name": "Thesis in Computer Science 2", "units": 2.0, "is_zero_credit": false, "year": "Year 4 (AY 2028-2029)", "term": 1, "requisites": [{"type": "hard", "code": "THS-CB1"}]}
+{"code": "CBINFOM", "name": "", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 1, "requisites": [{"type": "hard", "code": "CBPROG2"}]}
+{"code": "LCC..10", "name": "Lasallian Core Curriculum 10", "units": 3.0, "is_zero_credit": false, "year": "Year 4 (AY 2028-2029)", "term": 1, "requisites": []}
+{"code": "CBEMC-1", "name": "CBL: Introduction to Computing", "units": 3.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 1, "requisites": [{"type": "coreq", "code": "LBYCBC1"}]}
+{"code": "CBETHIC", "name": "Ethics", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 1, "requisites": [{"type": "coreq", "code": "CBINOV3"}]}
+{"code": "CBARCHI", "name": "Computer Architecture and", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 1, "requisites": []}
+{"code": "LCC..11", "name": "Lasallian Core Curriculum 11", "units": 3.0, "is_zero_credit": false, "year": "Year 4 (AY 2028-2029)", "term": 1, "requisites": []}
+{"code": "CBINOV3", "name": "Human-machine Interaction", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 1, "requisites": [{"type": "coreq", "code": "CBETHIC"}]}
+{"code": "LBYCBC1", "name": "CBL: Introduction to Computing", "units": 2.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 1, "requisites": [{"type": "coreq", "code": "CBEMC-1"}]}
+{"code": "LCC..12", "name": "Lasallian Core Curriculum 12", "units": 3.0, "is_zero_credit": false, "year": "Year 4 (AY 2028-2029)", "term": 1, "requisites": []}
+{"code": "CBINTSY", "name": "Introduction to Intelligent Systems", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 1, "requisites": [{"type": "hard", "code": "CCDSTRU"}]}
+{"code": "LCC..08", "name": "Lasallian Core Curriculum 8", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 1, "requisites": []}
+{"code": "MTH101A", "name": "Foundation Course in Mathematics", "units": 5.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 1, "requisites": [{"type": "exemption", "code": "BASMATH"}]}
+{"code": "CSMATH2", "name": "Linear Algebra for Computer Science", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 1, "requisites": [{"type": "hard", "code": "MTH101A"}]}
+{"code": "LCC..03", "name": "Lasallian Core Curriculum 3", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 1, "requisites": []}
+{"code": "CBDISCM", "name": "Distributed Computing", "units": 3.0, "is_zero_credit": false, "year": "Year 4 (AY 2028-2029)", "term": 1, "requisites": [{"type": "hard", "code": "CBOPESY"}]}
+{"code": "PE1CRDO", "name": "Cardio Fitness", "units": 2.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 1, "requisites": []}
+{"code": "PETHREE", "name": "Generic Code for PE", "units": 2.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 1, "requisites": [{"type": "hard", "code": "PE1CRDO"}]}
+{"code": "NSTP101", "name": "NSTP Orientation", "units": 0.0, "is_zero_credit": true, "year": "Year 1 (AY 2025-2026)", "term": 1, "requisites": []}
+{"code": "SAS3000", "name": "Student Affairs Services 3000", "units": 0.0, "is_zero_credit": true, "year": "Year 3 (AY 2027-2028)", "term": 1, "requisites": [{"type": "hard", "code": "SAS2000"}]}
+{"code": "LCLSTWO", "name": "Lasallian Studies 2", "units": 1.0, "is_zero_credit": true, "year": "Year 3 (AY 2027-2028)", "term": 1, "requisites": [{"type": "hard", "code": "LSLSONE"}]}
+{"code": "LASARE3", "name": "Lasallian Recollection 3", "units": 0.0, "is_zero_credit": true, "year": "Year 3 (AY 2027-2028)", "term": 1, "requisites": [{"type": "hard", "code": "LASARE2"}]}
+{"code": "THS-CB3", "name": "Thesis in Computer Science 3", "units": 2.0, "is_zero_credit": false, "year": "Year 4 (AY 2028-2029)", "term": 2, "requisites": [{"type": "hard", "code": "THS-CB2"}]}
+{"code": "LCC..13", "name": "Lasallian Core Curriculum 13", "units": 3.0, "is_zero_credit": false, "year": "Year 4 (AY 2028-2029)", "term": 2, "requisites": []}
+{"code": "CBPROG2", "name": "Programming with Structured Data", "units": 3.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 2, "requisites": [{"type": "hard", "code": "CBPROG1"}]}
+{"code": "CBCLOUD", "name": "Cloud Computing", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 2, "requisites": [{"type": "hard", "code": "CBINFOM"}]}
+{"code": "LCC..14", "name": "Lasallian Core Curriculum 14", "units": 3.0, "is_zero_credit": false, "year": "Year 4 (AY 2028-2029)", "term": 2, "requisites": []}
+{"code": "CBWORLD", "name": "The Contemporary World", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 2, "requisites": []}
+{"code": "LCC..15", "name": "Lasallian Core Curriculum 15", "units": 3.0, "is_zero_credit": false, "year": "Year 4 (AY 2028-2029)", "term": 2, "requisites": []}
+{"code": "CBEMC-2", "name": "CBL: Introduction to Computer", "units": 3.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 2, "requisites": [{"type": "hard", "code": "CBEMC-1"}]}
+{"code": "ST-MATH", "name": "Integral Calculus for Computer", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 2, "requisites": [{"type": "hard", "code": "CSMATH1"}]}
+{"code": "CBSWEG1", "name": "Software Engineering", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 2, "requisites": [{"type": "hard", "code": "CBINFOM"}]}
+{"code": "LCLSTRI", "name": "Lasallian Studies 3", "units": 1.0, "is_zero_credit": true, "year": "Year 4 (AY 2028-2029)", "term": 2, "requisites": [{"type": "hard", "code": "LCLSTWO"}]}
+{"code": "CBEMC-4", "name": "Multi-agents", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 2, "requisites": [{"type": "hard", "code": "CBEMC-3"}]}
+{"code": "LBYCBC2", "name": "CBL: Introduction to Computer", "units": 2.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 2, "requisites": [{"type": "coreq", "code": "CBEMC-2"}]}
+{"code": "PRCCC01", "name": "Orientation course for CS-ST, CS,", "units": 1.0, "is_zero_credit": false, "year": "Year 4 (AY 2028-2029)", "term": 2, "requisites": [{"type": "hard", "code": "CBAPDEV"}]}
+{"code": "CBINOV2", "name": "Great Designers and Ideas", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 2, "requisites": []}
+{"code": "CBASEAN", "name": "The Filipino and ASEAN", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 2, "requisites": []}
+{"code": "CBDSTRU", "name": "Discrete Structures", "units": 3.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 2, "requisites": []}
+{"code": "PEDFOUR", "name": "Generic Code for PE", "units": 2.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 2, "requisites": [{"type": "hard", "code": "PE1CRDO"}]}
+{"code": "CBINOV4", "name": "Business Innovations", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 2, "requisites": [{"type": "coreq", "code": "CBASEAN"}]}
+{"code": "CBINOV1", "name": "Creativity and Design", "units": 3.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 2, "requisites": [{"type": "coreq", "code": "CBARTAP"}]}
+{"code": "LCLSONE", "name": "Lasallian Studies 1", "units": 1.0, "is_zero_credit": true, "year": "Year 2 (AY 2026-2027)", "term": 2, "requisites": []}
+{"code": "CBRESME", "name": "CS Research Methods", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 2, "requisites": [{"type": "hard", "code": "CBINOV3"}]}
+{"code": "CBARTAP", "name": "Art Appreciation", "units": 3.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 2, "requisites": [{"type": "coreq", "code": "CBINOV1"}]}
+{"code": "PE2FTEX", "name": "Functional Exercise", "units": 2.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 2, "requisites": []}
+{"code": "LASARE2", "name": "", "units": 0.0, "is_zero_credit": true, "year": "Year 2 (AY 2026-2027)", "term": 2, "requisites": [{"type": "hard", "code": "LASARE1"}]}
+{"code": "NSTP-01", "name": "National Service Training Program", "units": 3.0, "is_zero_credit": true, "year": "Year 1 (AY 2025-2026)", "term": 2, "requisites": []}
+{"code": "CBELEC2", "name": "CS Elective 2", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 2, "requisites": []}
+{"code": "LASARE1", "name": "Lasallian Recollection 1", "units": 0.0, "is_zero_credit": true, "year": "Year 1 (AY 2025-2026)", "term": 2, "requisites": []}
+{"code": "PRCCSCI", "name": "Practicum for CS Students", "units": 2.0, "is_zero_credit": false, "year": "Year 4 (AY 2028-2029)", "term": 3, "requisites": [{"type": "hard", "code": "CBSWEG1"}]}
+{"code": "CBOPESY", "name": "Introduction to Operating Systems", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 3, "requisites": [{"type": "hard", "code": "CBARCHI"}]}
+{"code": "CBALGCM", "name": "Algorithms and Complexity", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 3, "requisites": [{"type": "hard", "code": "CBDSALG"}]}
+{"code": "STT101A", "name": "Foundation Course in Statistics", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 3, "requisites": []}
+{"code": "CBSECDV", "name": "Secure Web Development", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 3, "requisites": []}
+{"code": "CBEMC-3", "name": "CBL: Electronics Fundamentals and", "units": 3.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 3, "requisites": [{"type": "hard", "code": "CBEMC-2"}]}
+{"code": "CBEMC-5", "name": "Embodied Agents", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 3, "requisites": [{"type": "hard", "code": "CBEMC-4"}]}
+{"code": "CBSWEG2", "name": "Advanced Software Engineering", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 3, "requisites": [{"type": "hard", "code": "CBSWEG1"}]}
+{"code": "CBPCOMM", "name": "Purposive Communication", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 3, "requisites": [{"type": "coreq", "code": "CBEMC-5"}]}
+{"code": "CBDATSI", "name": "Data Science", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 3, "requisites": []}
+{"code": "LBYCBC3", "name": "CBL: Electronics Fundamentals and", "units": 3.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 3, "requisites": [{"type": "hard", "code": "CBEMC-2"}]}
+{"code": "LCC..06", "name": "Lasallian Core Curriculum 6", "units": 3.0, "is_zero_credit": false, "year": "Year 2 (AY 2026-2027)", "term": 3, "requisites": []}
+{"code": "CBADVAI", "name": "Advanced Intelligent Systems", "units": 3.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 3, "requisites": [{"type": "hard", "code": "CBINTSY"}]}
+{"code": "CBDSALG", "name": "CBL: Data Structures and Algorithms", "units": 3.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 3, "requisites": [{"type": "soft", "code": "CBPROG2"}]}
+{"code": "SAS2000", "name": "Student Affairs Services 2000", "units": 0.0, "is_zero_credit": true, "year": "Year 2 (AY 2026-2027)", "term": 3, "requisites": [{"type": "hard", "code": "SAS1000"}]}
+{"code": "THS-CB1", "name": "Thesis in Computer Science 1", "units": 2.0, "is_zero_credit": false, "year": "Year 3 (AY 2027-2028)", "term": 3, "requisites": [{"type": "hard", "code": "CBRESME"}]}
+{"code": "CSMATH1", "name": "Differential Calculus for Computer", "units": 3.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 3, "requisites": [{"type": "hard", "code": "MTH101A"}]}
+{"code": "CBPHYSX", "name": "Physics for Electronics", "units": 3.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 3, "requisites": []}
+{"code": "CBSTSOC", "name": "Science, Technology, and Society", "units": 3.0, "is_zero_credit": false, "year": "Year 1 (AY 2025-2026)", "term": 3, "requisites": [{"type": "coreq", "code": "CBIST-3"}]}
+{"code": "SAS1000", "name": "Student Affairs Services 1000", "units": 0.0, "is_zero_credit": true, "year": "Year 1 (AY 2025-2026)", "term": 3, "requisites": []}
+{"code": "NSTP-02", "name": "National Service Training Program", "units": 3.0, "is_zero_credit": true, "year": "Year 1 (AY 2025-2026)", "term": 3, "requisites": [{"type": "hard", "code": "NSTP-01"}]}
